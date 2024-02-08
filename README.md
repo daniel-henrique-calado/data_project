@@ -1,1 +1,1 @@
-# Project showing how to use ETL
+# Project with a usecase of ETL
