@@ -1,4 +1,4 @@
-# Extract step
+# Transform step
 
 ## Workflow
 
@@ -16,4 +16,4 @@ gantt
 
 # Extracting data   
     
-### ::: src.pipeline.extract.extract_from_excel
+### ::: src.pipeline.transform.concat_data_frames
