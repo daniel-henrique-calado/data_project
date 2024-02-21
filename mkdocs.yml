@@ -1,0 +1,21 @@
+site_name: Data Project
+theme:
+  name: material # or other theme
+  palette:
+    primary: blue
+  language: en
+
+repo_name: "daniel-henrique-calado/data-project"
+repo_url: "https://github.com/daniel-henrique-calado/data_project"
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python
+

@@ -16,6 +16,12 @@ blue = "^0.9.1"
 pydocstyle = "^6.3.0"
 pip-audit = "^2.7.1"
 taskipy = "^1.12.2"
+mkdocs = "^1.5.3"
+mkdocstrings-python = "^1.8.0"
+pygments = "^2.17.2"
+mkdocs-material = "^9.5.10"
+pymdown-extensions = "^10.7"
+mkdocs-bootstrap386 = "^0.0.2"
 
 
 [build-system]
