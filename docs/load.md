@@ -1,6 +1,4 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Load step
 
 ## Workflow
 
@@ -16,6 +14,6 @@ gantt
         another task    :24d
 ```
 
-# Extracting data   
-    
-### ::: src.pipeline.extract.extract_from_excel
+# Extracting data
+
+### ::: src.pipeline.load.load_excel
