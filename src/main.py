@@ -6,3 +6,4 @@ if __name__ == '__main__':
     data_frame_list = extract_from_excel('data/input')
     df_data = concat_data_frames(data_frame_list)
     load_excel(df_data, 'data/output', 'output')
+    print("Done.")
